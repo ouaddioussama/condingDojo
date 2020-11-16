@@ -1,4 +1,4 @@
-package com.dev;
+package com.dev.foobarqix;
 
 import java.util.HashMap;
 import java.util.Map;
